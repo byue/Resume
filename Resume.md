@@ -48,12 +48,12 @@ Software Engineer with 7 years of experience developing production-grade distrib
 
 ## Projects
 
-### TradeStrike
+### TradeStrike - Online alerting system for stock price and volume anomalies
 - Architected dockerized services for near real-time stock volume and price spike alerting, achieving sub-1-second spike-to-notification p99 latency across a push-based event pipeline with aggressive Redis caching.
 - Computed configurable rolling window average and standard deviation statistics over WebSocket streams via Kafka stream workers for real-time anomaly signal generation.
 - Instrumented a full observability stack with Prometheus, Grafana, and Loki to monitor pipeline throughput, worker p99 latency, and alert delivery health.
 
-### Reelify
+### Reelify - Rapid idea-to-cinematic prototyping tool
 - Built a text-to-video Python API (FastAPI) backed by self-hosted multimodal LLM under 8-12GB VRAM constraints.
 - Optimized model inference in Pytorch using quantization and keyframe interpolation, reducing frame render p99 latency by ~40%.
 
