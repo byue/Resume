@@ -1,5 +1,5 @@
 # Bryan Yue - Software Engineer
-yue_bryan123@gmail.com | 425-749-2741 | https://bryanyue.com | https://linkedin.com/in/bryanyue322 | https://github.com/byue
+yue_bryan123@hotmail.com | 425-749-2741 | https://bryanyue.com | https://linkedin.com/in/bryanyue322 | https://github.com/byue
 
 ---
 
